@@ -1,5 +1,5 @@
 {
-    "name": "smarty/smarty",
+    "name": "smarty/smarty5",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine",
     "keywords": [
